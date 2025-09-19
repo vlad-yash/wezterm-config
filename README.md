@@ -53,3 +53,6 @@ Open WezTerm:
 Or copy scripts from repo to Automator Services folder:
 
 `cp ./scripts/* ~/Library/Services/`
+
+## 9. “Add Hotkeys in Keyboard Settings ⌨️🔥”
+![HotKeys](./images/HotKeys.png)
